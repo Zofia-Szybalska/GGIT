@@ -1,0 +1,2 @@
+# GGIT
+Mój pierwszy projekt
